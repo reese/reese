@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🌱🌱🌱
+
+Hello!
+I'm Reese, a Software Engineer at [HubSpot](https://www.hubspot.com/) working on our Growth teams.
+Outside of my work at HubSpot, I work on various side projects, with the main one being a high-level, multi-paradigm programming language called [Rox](https://github.com/reese/rox).
 
 <!--
 **reese/reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
