@@ -1,8 +1,8 @@
 ### 🌱🌱🌱
 
 Hello!
-I'm Reese (he/him), a Senior Software Engineer at [HubSpot](https://www.hubspot.com/) working on our Growth teams.
-Outside of my work at HubSpot, I work on various side projects such as [Rox](https://github.com/reese/rox), a toy programming language, and writing articles for my [personal blog](https://reesew.io).
+I'm Reese (he/him), a Software Engineer at $COMING_SOON, and previously I worked at [HubSpot](https://hubspot.com) and the [Gnar Company](https://thegnar.co).
+Outside of my work, I work on various side projects such as [Rox](https://github.com/reese/rox), a toy programming language, and writing articles for my [personal blog](https://reesew.io). I'm really interested in Rust and Ruby (and using them together!) and would love to collaborate on any related projects.
 
 <!--
 **reese/reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
