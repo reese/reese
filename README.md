@@ -1,8 +1,7 @@
 ### 🌱🌱🌱
 
 Hello!
-I'm Reese (he/him), a Software Engineer at [Stripe](https://stripe.com), and previously I worked at [HubSpot](https://hubspot.com) and [The Gnar Company](https://thegnar.co).
-Outside of my work, I work on various side projects such as [Rox](https://github.com/reese/rox), a toy programming language, and writing articles for my [personal blog](https://reesew.io). I'm really interested in Rust and Ruby (and using them together!) and would love to collaborate on any related projects.
+I'm Reese (he/him), a Software Engineer working on ✨Ruby things✨ at [Stripe](https://stripe.com), and previously I worked at [HubSpot](https://hubspot.com) and [The Gnar Company](https://thegnar.co).
 
 <!--
 **reese/reese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
